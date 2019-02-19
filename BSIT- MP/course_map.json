@@ -1,0 +1,210 @@
+{
+	"title" : "ITW202 Mobile Application Course",
+	"overview":[
+	],
+	"learningObjectives":[],
+	"units" :
+	[
+		{
+			"title":"User Interface Mockup for Student Tracker - 1",
+			"overview":[
+			],
+			"learningObjectives":[
+			],
+			"activities":
+			[
+				"Platform Architecture",
+				"Skim through different UI elements",
+				"Identify the appropriate UI elements",
+				"Installing the Android Studio"
+			]
+		},
+		{
+			"title" : "User Interface Mockup for Student Tracker - 2",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Create an android project",
+				"Run the app on mobile device",
+				"Run the app on Emulator",
+				"Directory Structure of Android Project"
+			]
+		},
+		{
+			"title" : "Build View Profile Activity (Sample Data) - 1",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Adding image to the activity",
+				"Portrait - Landscape",
+				"Responsive Design",
+				"Choose appropriate layout for the Build View Profile Activity"
+			]
+		},
+		{
+			"title" : "Build View Profile Activity (Sample Data) - 2",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Adding TextView to the Layout",
+				"Adding ListView to the layout",
+				"Build your profile data and pass it to the ListView",
+				"Construct the JSON string based on your profile data"
+			]
+		},
+		{
+			"title" : "Build View Profile Activity using EndPoint - 1",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Permission for Internet for your application",
+				"Get your profile data in the format of JSON",
+				"Async Task"
+			]
+		},
+		{
+			"title" : "Build View Profile Activity using EndPoint - 2",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Fetch the JSON data using the URL",
+				"Parse the JSON data and pass it on to the ListView"
+			]
+		},
+		{
+			"title" : "Build Mark Attendance Activity - 1",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Build the User Interface for marking the attendance",
+				"Identify the schema to the store the information"
+			]
+		},
+		{
+			"title" : "Build Mark Attendance Activity - 2",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Defining the Schema and Contract"
+			]
+		},
+		{
+			"title" : "Build Mark Attendance Activity - 3",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Create a database using SQL Helper functions"
+			]
+		},
+		{
+			"title" : "Build Mark Attendance Activity - 4",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Inserting the data into the database tables"
+			]
+		},
+		{
+			"title" : "Build View Attendance Activity - 1",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Choose appropriate layout for the Build View Attendance Activity"
+			]
+		},
+		{
+			"title" : "Build View Attendance Activity - 2",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Retrieve the data from the database tables"
+			]
+		},
+		{
+			"title" : "Notification for mark attendance - 1",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Notification Overview"
+			]
+		},
+		{
+			"title" : "Notification for mark attendance - 2",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Notification Anatomy"
+			]
+		},
+		{
+			"title" : "Notification for mark attendance - 3",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Notification Actions"
+			]
+		},
+		{
+			"title" : "Notification for mark attendance - 4",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Notification Compatibility",
+				"Creating a Notification for marking the attendance"
+			]
+		},
+		{
+			"title" : "Capture Location for marking attendance - 1",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Location Services",
+				"Set up Google Play Services"
+			]
+		},
+		{
+			"title" : "Capture Location for marking attendance - 2",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Getting the last known location"
+			]
+		},
+		{
+			"title" : "Capture Location for marking attendance - 3",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Create Location Services Client"
+			]
+		},
+		{
+			"title" : "Capture Location for marking attendance - 4",
+			"overview":[],
+			"learningObjectives":[],
+			"activities":
+			[
+				"Get the Last Known Location",
+				"Modify your schema to record the attendance in the database table"
+			]
+		},
+	]
+}
