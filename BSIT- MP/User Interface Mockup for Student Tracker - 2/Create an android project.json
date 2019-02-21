@@ -1,0 +1,13 @@
+[{
+	"title": "Create an android project",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/basics/firstapp/creating-project\">Create an android project Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Create an android project"
+	}]
+}]

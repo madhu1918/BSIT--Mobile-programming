@@ -1,0 +1,13 @@
+[{
+	"title": "Create a database using SQL Helper functions",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/data-storage/sqlite.html#DbHelper\">Create a database using SQL Helper functions Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Create a database using SQL Helper functions"
+	}]
+}]

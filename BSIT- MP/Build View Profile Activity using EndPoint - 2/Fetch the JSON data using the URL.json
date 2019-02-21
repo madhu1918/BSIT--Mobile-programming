@@ -1,0 +1,13 @@
+[{
+	"title": "Fetch the JSON data using the URL",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://github.com/udacity/Sunshine-Version-2/blob/2.08_json_parsing/app/src/main/java/com/example/android/sunshine/app/ForecastFragment.java\">Fetch the JSON data using the URL Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Fetch the JSON data using the URL"
+	}]
+}]

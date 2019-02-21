@@ -1,0 +1,13 @@
+[{
+	"title": "Choose appropriate layout for the Build View Attendance Activity",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/guide/topics/ui/index.html\">Choose appropriate layout for the Build View Attendance Activity Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Choose appropriate layout for the Build View Attendance Activity"
+	}]
+}]

@@ -1,0 +1,13 @@
+[{
+	"title": "Get the Last Known Location",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/location/retrieve-current.html#last-known\">Get the Last Known Location Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Get the Last Known Location Client"
+	}]
+}]

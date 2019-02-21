@@ -1,0 +1,13 @@
+[{
+	"title": "Installing the Android Studio",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/studio/\">Installing the Android Studio Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Installing the Android Studio"
+	}]
+}]

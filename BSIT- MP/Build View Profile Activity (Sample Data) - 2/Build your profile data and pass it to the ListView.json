@@ -1,0 +1,13 @@
+[{
+	"title": "Build your profile data and pass it to the ListView",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://github.com/udacity/Sunshine-Version-2/blob/1.06_attach_adapter/app/src/main/java/com/example/android/sunshine/app/MainActivity.java\">Build your profile data and pass it to the ListView Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Build your profile data and pass it to the ListView"
+	}]
+}]

@@ -1,0 +1,13 @@
+[{
+	"title": "Run the app on mobile device",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/basics/firstapp/running-app#RealDevice\">Run the app on mobile device Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Run the app on mobile device"
+	}]
+}]

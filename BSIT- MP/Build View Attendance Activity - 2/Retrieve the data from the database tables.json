@@ -1,0 +1,13 @@
+[{
+	"title": "Retrieve the data from the database tables",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/data-storage/sqlite.html#ReadDbRow\">Retrieve the data from the database tables Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Retrieve the data from the database tables"
+	}]
+}]

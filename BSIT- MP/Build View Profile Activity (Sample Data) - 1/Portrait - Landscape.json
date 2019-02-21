@@ -1,0 +1,13 @@
+[{
+	"title": "Portrait - Landscape",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/reference/android/widget/ImageView.html\">Portrait - Landscape Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Portrait - Landscape"
+	}]
+}]

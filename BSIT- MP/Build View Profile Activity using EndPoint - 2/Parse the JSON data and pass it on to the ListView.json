@@ -1,0 +1,13 @@
+[{
+	"title": "Parse the JSON data and pass it on to the ListView",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://github.com/udacity/Sunshine-Version-2/tree/2.09_display_data\">Parse the JSON data and pass it on to the ListView Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Parse the JSON data and pass it on to the ListView"
+	}]
+}]

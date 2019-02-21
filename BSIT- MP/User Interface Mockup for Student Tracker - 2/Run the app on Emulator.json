@@ -1,0 +1,13 @@
+[{
+	"title": "Run the app on Emulator",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/basics/firstapp/running-app#Emulator\">Run the app on Emulator Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Run the app on Emulator"
+	}]
+}]

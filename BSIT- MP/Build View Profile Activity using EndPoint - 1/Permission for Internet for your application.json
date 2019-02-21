@@ -1,0 +1,13 @@
+[{
+	"title": "Permission for Internet for your application",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/basics/network-ops/connecting.html\">Permission for Internet for your application Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Permission for Internet for your application data"
+	}]
+}]

@@ -1,0 +1,13 @@
+[{
+	"title": "Creating a Notification for marking the attendance",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/notify-user/build-notification.html#add_the_support_library\">Creating a Notification for marking the attendance Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Creating a Notification for marking the attendance"
+	}]
+}]

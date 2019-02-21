@@ -1,0 +1,13 @@
+[{
+	"title": "Adding image to the activity",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/reference/android/widget/ImageView.html\">Adding image to the activity Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Adding image to the activity"
+	}]
+}]

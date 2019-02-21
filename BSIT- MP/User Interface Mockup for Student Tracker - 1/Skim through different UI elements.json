@@ -1,0 +1,13 @@
+[{
+	"title": "Skim through different UI elements",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developers.google.com/android/for-all/vocab-words/\">Skim through different UI elements Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Skim through different UI elements"
+	}]
+}]

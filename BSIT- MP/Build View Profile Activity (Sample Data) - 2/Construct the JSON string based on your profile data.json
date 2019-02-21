@@ -1,0 +1,13 @@
+[{
+	"title": "Construct the JSON string based on your profile data",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://www.tutorialspoint.com/android/android_json_parser.htm\">Construct the JSON string based on your profile data Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Construct the JSON string based on your profile data"
+	}]
+}]

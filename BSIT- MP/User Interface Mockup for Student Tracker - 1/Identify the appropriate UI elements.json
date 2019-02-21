@@ -1,0 +1,13 @@
+[{
+	"title": "Identify the appropriate UI elements",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/guide/topics/ui/\">Identify the appropriate UI elements Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Identify the appropriate UI elements"
+	}]
+}]

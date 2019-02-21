@@ -1,0 +1,13 @@
+[{
+	"title": "Defining the Schema and Contract",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/data-storage/sqlite.html#DefineContract\">Defining the Schema and Contract Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Defining the Schema and Contract"
+	}]
+}]

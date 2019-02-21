@@ -1,0 +1,13 @@
+[{
+	"title": "Inserting the data into the database tables",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/data-storage/sqlite.html#WriteDbRow\">Inserting the data into the database tables Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Inserting the data into the database tables"
+	}]
+}]

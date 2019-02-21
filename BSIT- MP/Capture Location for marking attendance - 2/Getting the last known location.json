@@ -1,0 +1,13 @@
+[{
+	"title": "Getting the last known location",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/location/retrieve-current.html#permissions\">Getting the last known location Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Getting the last known location"
+	}]
+}]

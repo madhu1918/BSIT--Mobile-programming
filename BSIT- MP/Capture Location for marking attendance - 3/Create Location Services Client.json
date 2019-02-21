@@ -1,0 +1,13 @@
+[{
+	"title": "Create Location Services Client",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/location/retrieve-current.html#play-services\">Create Location Services Client Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Create Location Services Client"
+	}]
+}]

@@ -1,0 +1,13 @@
+[{
+	"title": "Notification Compatibility",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/guide/topics/ui/notifiers/notifications.html#compatibility\">Notification Compatibility Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Notification Compatibility"
+	}]
+}]

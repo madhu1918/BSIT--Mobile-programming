@@ -1,0 +1,13 @@
+[{
+	"title": "Get your profile data in the format of JSON",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/training/basics/network-ops/connecting.html\">Get your profile data in the format of JSON Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Get your profile data in the format of JSON data"
+	}]
+}]

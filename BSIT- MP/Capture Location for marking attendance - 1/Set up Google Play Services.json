@@ -1,0 +1,13 @@
+[{
+	"title": "Set up Google Play Services",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developers.google.com/android/guides/setup\">Set up Google Play Services Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Set up Google Play Services"
+	}]
+}]

@@ -1,0 +1,13 @@
+[{
+	"title": "Notification Overview",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/guide/topics/ui/notifiers/notifications.html\">Notification Overview Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Notification Overview"
+	}]
+}]

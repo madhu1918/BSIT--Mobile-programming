@@ -1,0 +1,13 @@
+[{
+	"title": "Platform Architecture",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/guide/platform/\">Platform Architecture Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Platform Architecture"
+	}]
+}]

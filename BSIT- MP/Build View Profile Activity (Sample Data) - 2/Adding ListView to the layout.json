@@ -1,0 +1,13 @@
+[{
+	"title": "Adding ListView to the layout",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/reference/android/widget/ListView.html\">Adding ListView to the layout Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Adding ListView to the layout"
+	}]
+}]

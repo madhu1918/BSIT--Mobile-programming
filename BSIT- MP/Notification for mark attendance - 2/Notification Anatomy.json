@@ -1,0 +1,13 @@
+[{
+	"title": "Notification Anatomy",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/guide/topics/ui/notifiers/notifications.html#Templates\">Notification Anatomy Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Notification Anatomy"
+	}]
+}]

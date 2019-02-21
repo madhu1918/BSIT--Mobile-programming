@@ -1,15 +1,31 @@
 {
 	"title" : "ITW202 Mobile Application Course",
 	"overview":[
+		"This module is intended to empower students to enter the world of mobile application development.  Students are exposed to various forms of mobile applications including cross-platform, Android, and iOS.  Due to time constraint, students will complete labs on either Android or iOS. General design guidelines are presented for mobile applications and the bulk of the course is training with platform-specific development tools and technologies."
 	],
-	"learningObjectives":[],
+	"learningObjectives":[
+		"On completion of the module, the students will be able to:",
+		"Define the unique roles of mobile applications.",
+		"State the design and hardware constraints of mobile applications in general and device platforms specifics.",
+		"Build a cross-platform mobile application using HTML5, CSS, JavaScript, and jQuery Mobile. ",
+		"Generate native Android or iOS applications from a given cross-platform application.",
+		"Build an Android and/or iOS mobile application using current platform development tools.",
+		"State the process of monitoring.",
+		"Describe the various publishing methods for mobile applications."
+	],
 	"units" :
 	[
 		{
 			"title":"User Interface Mockup for Student Tracker - 1",
 			"overview":[
+				"This Lesson is the first step towards developing Android Apps, here we will configure the Environment needed to start Developing Apps, Android Studio, the official IDE from Android, this lesson covers the installation process and the main characteristics."
 			],
 			"learningObjectives":[
+				"Basic Project Structure, how to navigate the different Files contained in a project, including the Application Manifest, Java files, the resources of the project, Layouts, Strings, etc., Build Files and Libraries.",
+				"Android Studio User Interface, have a look at the UI and the function of some of the actions and characteristics, like the Toolbar, from where you can Build and Run the Project, Debug the Project execution, manage Android Virtual Devices, and more. The window bar where you can see the project structure, and the Editor Window, where the code is displayed, and how the Editor Window can change depending on the type of file that is currently being edited.",
+				"Then, there's how to actually run the Android Projects, which can be done in either an Emulator or a physical Device.",
+				"One of the main requirements to use Android Studio is having a working Java SDK, this is also covered in the lesson.",
+				"Finally there's a small application that's meant to showcase the creation and deployment of a project."
 			],
 			"activities":
 			[
@@ -21,8 +37,16 @@
 		},
 		{
 			"title" : "User Interface Mockup for Student Tracker - 2",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"This Lesson is the first step towards developing Android Apps, here we will configure the Environment needed to start Developing Apps, Android Studio, the official IDE from Android, this lesson covers the installation process and the main characteristics."
+			],
+			"learningObjectives":[
+				"Basic Project Structure, how to navigate the different Files contained in a project, including the Application Manifest, Java files, the resources of the project, Layouts, Strings, etc., Build Files and Libraries.",
+				"Android Studio User Interface, have a look at the UI and the function of some of the actions and characteristics, like the Toolbar, from where you can Build and Run the Project, Debug the Project execution, manage Android Virtual Devices, and more. The window bar where you can see the project structure, and the Editor Window, where the code is displayed, and how the Editor Window can change depending on the type of file that is currently being edited.",
+				"Then, there's how to actually run the Android Projects, which can be done in either an Emulator or a physical Device.",
+				"One of the main requirements to use Android Studio is having a working Java SDK, this is also covered in the lesson.",
+				"Finally there's a small application that's meant to showcase the creation and deployment of a project."
+			],
 			"activities":
 			[
 				"Create an android project",
@@ -33,8 +57,14 @@
 		},
 		{
 			"title" : "Build View Profile Activity (Sample Data) - 1",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will build the screes of student profile data to fill up with sample data Finally, we update the data with student info."
+			],
+			"learningObjectives":[
+				"Learn on how to create the activities, image, text views and videos fields how to add them.",
+				"Learn on the Landscape and Portrait modes.",
+				"To know the mobile app has responsive design layouts."
+			],
 			"activities":
 			[
 				"Adding image to the activity",
@@ -45,8 +75,14 @@
 		},
 		{
 			"title" : "Build View Profile Activity (Sample Data) - 2",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will build the screes of student profile data to fill up with sample data Finally, we update the data with student info."
+			],
+			"learningObjectives":[
+				"Learn on how to create the activities, image, text views and videos fields how to add them.",
+				"Learn on the Landscape and Portrait modes.",
+				"To know the mobile app has responsive design layouts."
+			],
 			"activities":
 			[
 				"Adding TextView to the Layout",
@@ -57,8 +93,13 @@
 		},
 		{
 			"title" : "Build View Profile Activity using EndPoint - 1",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will the use the JSON parsers to construct/ build student profile"
+			],
+			"learningObjectives":[
+				"Learn to parse given JSON as per the requirement.",
+				"To know how to fill the data using the JSON object."
+			],
 			"activities":
 			[
 				"Permission for Internet for your application",
@@ -68,8 +109,13 @@
 		},
 		{
 			"title" : "Build View Profile Activity using EndPoint - 2",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will the use the JSON parsers to construct/ build student profile"
+			],
+			"learningObjectives":[
+				"Learn to parse given JSON as per the requirement.",
+				"To know how to fill the data using the JSON object."
+			],
 			"activities":
 			[
 				"Fetch the JSON data using the URL",
@@ -78,8 +124,14 @@
 		},
 		{
 			"title" : "Build Mark Attendance Activity - 1",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will configure database connections. How to configure the database in our application."
+			],
+			"learningObjectives":[
+				"Why should we use database.",
+				"To explore the different types of storage methods in mobile projects.",
+				"To establish the database connectivity using the Android studio environment."
+			],
 			"activities":
 			[
 				"Build the User Interface for marking the attendance",
@@ -88,8 +140,14 @@
 		},
 		{
 			"title" : "Build Mark Attendance Activity - 2",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will configure database connections. How to configure the database in our application."
+			],
+			"learningObjectives":[
+				"Why should we use database.",
+				"To explore the different types of storage methods in mobile projects.",
+				"To establish the database connectivity using the Android studio environment."
+			],
 			"activities":
 			[
 				"Defining the Schema and Contract"
@@ -97,8 +155,14 @@
 		},
 		{
 			"title" : "Build Mark Attendance Activity - 3",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will configure database connections. How to configure the database in our application."
+			],
+			"learningObjectives":[
+				"Why should we use database.",
+				"To explore the different types of storage methods in mobile projects.",
+				"To establish the database connectivity using the Android studio environment."
+			],
 			"activities":
 			[
 				"Create a database using SQL Helper functions"
@@ -106,8 +170,14 @@
 		},
 		{
 			"title" : "Build Mark Attendance Activity - 4",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will configure database connections. How to configure the database in our application."
+			],
+			"learningObjectives":[
+				"Why should we use database.",
+				"To explore the different types of storage methods in mobile projects.",
+				"To establish the database connectivity using the Android studio environment."
+			],
 			"activities":
 			[
 				"Inserting the data into the database tables"
@@ -115,8 +185,14 @@
 		},
 		{
 			"title" : "Build View Attendance Activity - 1",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module,  we will know about the different layouts."
+			],
+			"learningObjectives":[
+				"Learn to know about the layout used in the Android.",
+				"Retrieve the data from the database and update in the Layouts.",
+				"Learn to use of the activities and sent data from one to other."
+			],
 			"activities":
 			[
 				"Choose appropriate layout for the Build View Attendance Activity"
@@ -124,8 +200,14 @@
 		},
 		{
 			"title" : "Build View Attendance Activity - 2",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module,  we will know about the different layouts."
+			],
+			"learningObjectives":[
+				"Learn to know about the layout used in the Android.",
+				"Retrieve the data from the database and update in the Layouts.",
+				"Learn to use of the activities and sent data from one to other."
+			],
 			"activities":
 			[
 				"Retrieve the data from the database tables"
@@ -133,8 +215,14 @@
 		},
 		{
 			"title" : "Notification for mark attendance - 1",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will know about the notifications."
+			],
+			"learningObjectives":[
+				"How to use the notifications in the android.",
+				"Learn how to update the notifications and it uses.",
+				"Anatomy and actions of the Notifications are to be used."
+			],
 			"activities":
 			[
 				"Notification Overview"
@@ -142,8 +230,14 @@
 		},
 		{
 			"title" : "Notification for mark attendance - 2",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will know about the notifications."
+			],
+			"learningObjectives":[
+				"How to use the notifications in the android.",
+				"Learn how to update the notifications and it uses.",
+				"Anatomy and actions of the Notifications are to be used."
+			],
 			"activities":
 			[
 				"Notification Anatomy"
@@ -151,8 +245,14 @@
 		},
 		{
 			"title" : "Notification for mark attendance - 3",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will know about the notifications."
+			],
+			"learningObjectives":[
+				"How to use the notifications in the android.",
+				"Learn how to update the notifications and it uses.",
+				"Anatomy and actions of the Notifications are to be used."
+			],
 			"activities":
 			[
 				"Notification Actions"
@@ -160,8 +260,14 @@
 		},
 		{
 			"title" : "Notification for mark attendance - 4",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will know about the notifications."
+			],
+			"learningObjectives":[
+				"How to use the notifications in the android.",
+				"Learn how to update the notifications and it uses.",
+				"Anatomy and actions of the Notifications are to be used."
+			],
 			"activities":
 			[
 				"Notification Compatibility",
@@ -170,8 +276,13 @@
 		},
 		{
 			"title" : "Capture Location for marking attendance - 1",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will use the locations and services."
+			],
+			"learningObjectives":[
+				"To know the services of the locations in android.",
+				"To learn on how to implement the location services and last known location."
+			],
 			"activities":
 			[
 				"Location Services",
@@ -180,8 +291,13 @@
 		},
 		{
 			"title" : "Capture Location for marking attendance - 2",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will use the locations and services."
+			],
+			"learningObjectives":[
+				"To know the services of the locations in android.",
+				"To learn on how to implement the location services and last known location."
+			],
 			"activities":
 			[
 				"Getting the last known location"
@@ -189,8 +305,13 @@
 		},
 		{
 			"title" : "Capture Location for marking attendance - 3",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will use the locations and services."
+			],
+			"learningObjectives":[
+				"To know the services of the locations in android.",
+				"To learn on how to implement the location services and last known location."
+			],
 			"activities":
 			[
 				"Create Location Services Client"
@@ -198,13 +319,18 @@
 		},
 		{
 			"title" : "Capture Location for marking attendance - 4",
-			"overview":[],
-			"learningObjectives":[],
+			"overview":[
+				"In this module, we will use the locations and services."
+			],
+			"learningObjectives":[
+				"To know the services of the locations in android.",
+				"To learn on how to implement the location services and last known location."
+			],
 			"activities":
 			[
 				"Get the Last Known Location",
 				"Modify your schema to record the attendance in the database table"
 			]
-		},
+		}
 	]
 }

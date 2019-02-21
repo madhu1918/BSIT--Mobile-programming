@@ -1,0 +1,13 @@
+[{
+	"title": "Adding TextView to the Layout",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/reference/android/widget/TextView.html\">Adding TextView to the Layout Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Adding TextView to the Layout"
+	}]
+}]

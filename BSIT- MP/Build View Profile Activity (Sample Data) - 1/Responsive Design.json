@@ -1,0 +1,13 @@
+[{
+	"title": "Responsive Design",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/guide/topics/ui/declaring-layout.html#CommonLayouts\">Responsive Design Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Responsive Design"
+	}]
+}]

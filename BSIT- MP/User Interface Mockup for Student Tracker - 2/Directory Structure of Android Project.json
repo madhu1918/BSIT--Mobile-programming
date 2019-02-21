@@ -1,0 +1,13 @@
+[{
+	"title": "Directory Structure of Android Project",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://developer.android.com/studio/projects/#ProjectFiless\">Directory Structure of Android Project Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Directory Structure of Android Project"
+	}]
+}]
